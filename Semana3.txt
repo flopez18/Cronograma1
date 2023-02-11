@@ -1,0 +1,61 @@
+Lunes 13:
+6:00AM - 6:50AM = Preparacion para el dia.
+6:51AM - 7:10AM = Llevar a mi hermana al colegio.
+7:11AM- 7:59AM = Primera comida y lectura.
+8:00AM - 10:00AM = Clase virtual Lectoescritura.
+10:01AM - 12:30PM = Entrenamiento en el gimnasio.
+12:31PM - 1:20PM = Preparacion para clase presencial y comida 2.
+1:21PM - 1:59PM = Viaje hasta la universidad.
+2:00PM - 4:00PM = Clase Introduccion a laingenieria Electronica.
+4:01PM - 5:59PM = Comida 3 y hacer estudiar o  hacer pendientes.
+6:00PM - 8:00PM = Semillero Salsa y Bachata de ingenieria.
+8:00PM - 9:00PM = Viaje hasta la casa.
+9:00PM - 10:00PM = Comida 4 y preparacion para dormir.
+
+Martes 14:
+6:00AM - 6:50AM = Preparacion para el dia y comida 1.
+6:51AM - 7:10AM = Llevar a mi hermana al colegio.
+7:11AM- 7:59AM = Viaje a la universidad.
+8:00AM - 10:00AM = Clase presencial Informatica 2.
+10:01AM - 1:00PM = Laboratorio de informatica.
+1:01PM - 1:20PM = Comida 2.
+1:21PM - 3:59PM = Entrenamiento en el gimnasio.
+4:00PM - 6:00PM = Clase virtual de ingles.
+6:00PM - 10:00PM = Comida 3 y 4, tiempo de estudio y preparacion para dormir.
+
+Miercoles 15:
+6:00AM - 6:50AM = Preparacion para el dia y comida 1.
+6:51AM- 7:59AM = Viaje hasta la universidad.
+8:00AM - 10:00AM = Clase virtual Lectoescritura.
+10:01AM - 12:00PM = Clase presencial Calculo.
+12:01PM - 2:00PM = Clase presencial Lineal.
+2:00PM - 2:20PM = Comida 2.
+2:21PM - 6:00PM = Entrenamiento en el gimnasio.
+6:01PM - 10:00PM = Comida 3 y 4, tiempo de estudio y preparacion para dormir.
+
+Jueves 16:
+6:00AM - 6:51AM = Preparacion para el dia.
+6:51AM - 7:10AM = Llevar a mi hermana al colegio.
+7:11AM- 7:59AM = Primera comida y lectura.
+8:00AM - 10:00AM = Clase virtual Informatica 2.
+10:01AM - 12:30PM = Entrenamiento en el gimnasio.
+12:31PM - 3:59PM = Comida 2 y 3 y tiempo de estudio.
+4:01PM - 6:00PM =  Clase de ingles.
+6:00PM - 10:00PM = Tiempo de estudio y preparacion para dormir.
+
+Viernes 17: 
+6:00AM - 6:50AM = Preparacion para el dia y comida 1.
+6:51AM - 7:10AM = Llevar a mi hermana al colegio.
+7:11AM- 9:59AM = Enntrenamiento en el gimnasio y viaje hasta la universidad.
+10:01AM - 12:00PM = Clase presencial Calculo.
+12:01PM - 2:00PM = Clase presencial Lineal.
+2:00PM - 2:20PM = Comida 2. 
+2:21PM - 10:00PM = Comida 3 y 4, tiempo de estudio y preparacion para dormir.
+
+Sabado 18:
+7:00AM - 8:00AM = Preparacion del dia.
+8:00AM - 10:30AM = Entrnamiento en el gimnasio.
+10:31AM - 10:00PM = Tiempo de estudio, comidas y preparacion para dormir.
+
+Domingo 19:
+Tiempo libre.
