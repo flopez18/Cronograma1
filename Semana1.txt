@@ -8,7 +8,6 @@ Lunes 13:
 1:21PM - 1:59PM = Viaje hasta la universidad.
 2:00PM - 4:00PM = Clase Introduccion a laingenieria Electronica.
 4:01PM - 5:59PM = Comida 3 y hacer estudiar o  hacer pendientes.
-6:00PM - 8:00PM = Semillero Salsa y Bachata de ingenieria.
 8:00PM - 9:00PM = Viaje hasta la casa.
 9:00PM - 10:00PM = Comida 4 y preparacion para dormir.
 
@@ -50,13 +49,19 @@ Viernes 17:
 10:01AM - 12:00PM = Clase presencial Calculo.
 12:01PM - 2:00PM = Clase presencial Lineal.
 2:00PM - 2:20PM = Comida 2. 
-2:21PM - 10:00PM = Comida 3 y 4, tiempo de estudio y preparacion para dormir.
+2:21PM - 10:00PM = Comida 3 y 4, gran avance en el laboratorio y repaso integral.
 
 Sabado 18:
 7:00AM - 8:00AM = Preparacion del dia.
 8:00AM - 10:30AM = Entrnamiento en el gimnasio.
-10:31AM - 10:00PM = Tiempo de estudio, comidas y preparacion para dormir.
+10:30AM - 12:00PM = Preparacion para salida.
+12:01PM - 3:00PM = Vueltas y poceder a "Engallar" el carro.
+3:01PM - 5:30PM = Tiempo libre
+6:00PM - 10:00PM = Salida con los panas
 
 Domingo 19:
-Tiempo libre.
+7:00AM - 9:00AM = Actualizar cronograma.
+9:01AM - 11:00AM = Estudiar para Lineal.
+11:00PM - 1:00PM = Trabajos pendientes, si no lectura.
+1:01PM - 10:00PM = Viciar en videojuegos.
 
